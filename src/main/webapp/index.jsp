@@ -1,4 +1,10 @@
+<!DOCTYPE>
 <html>
+  <head>
+    <title>
+      Check your luck
+    </title>
+  </head>
 <body>
   <h2>Successfully Deployed War file....</h2>
   <%
